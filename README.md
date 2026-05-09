@@ -23,10 +23,10 @@ Desa memiliki beberapa potensi utama yang dapat dikembangkan, yaitu:
 
 - Posko dinilai strategis karena berada di area tengah desa.
 - Dekat dengan:
-  - Rumah kepala dusun
-  - Rumah kepala desa
-  - Masjid
-  - Kantor desa
+  - Rumah kepala dusun
+  - Rumah kepala desa
+  - Masjid
+  - Kantor desa
 - Seluruh lokasi berada dalam satu lorong.
 - Lokasi SD juga dekat dengan rumah kepala desa.
 
@@ -43,10 +43,10 @@ Desa memiliki beberapa potensi utama yang dapat dikembangkan, yaitu:
 
 ## Program SDGs & Program Tambahan Tim
 
-1. Pemetaan Desa  
-2. Eco Brick  
-3. Pengadaan Tempat Sampah  
-4. Lampu Jalan  
+1. Pemetaan Desa  
+2. Eco Brick  
+3. Pengadaan Tempat Sampah  
+4. Lampu Jalan  
 
 ---
 
@@ -132,8 +132,13 @@ Pelatihan penggunaan Microsoft Excel untuk:
 
 ---
 
+# 🔄 Update Struktur Keanggotaan
+
+- **Keluar:** Mirna 
+- **Masuk:** Virgi (Kesmas) bergabung dan akan bertugas di Divisi **Konsumsi**.
+
+---
+
 # ✨ Catatan Tambahan
 
 Dokumen ini merupakan hasil rangkuman rapat awal program kerja desa yang akan menjadi dasar penyusunan program kerja KKN selanjutnya.
-
-ini mau gw masukkin di github
